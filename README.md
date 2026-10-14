@@ -46,4 +46,3 @@ retrieved sources with citations, and only releases a model after evaluation, re
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/pranati-pradhan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranatipradhanwork@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Python_%26_SQL_silver-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/pranatipradhanw1)
