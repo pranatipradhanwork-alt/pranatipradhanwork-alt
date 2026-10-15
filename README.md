@@ -10,6 +10,7 @@ MCA graduate · M.Sc. in AI & ML (Woolf University, AlmaBetter) in progress · o
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
 
+
 ## 🏦 Featured: HDFC Bank custom LLM pipeline
 
 [Code](https://github.com/pranatipradhanwork-alt/Hdfc-bank-custom-llm-pipeline-project) ·
@@ -40,7 +41,7 @@ retrieved sources with citations, and only releases a model after evaluation, re
 - [LinkedIn product dissection](https://github.com/pranatipradhanwork-alt/linkedin-product-dissection):
   how LinkedIn solves four professional problems, plus a 9-table MySQL schema and ER diagram.
 - [LMS](https://github.com/pranatipradhanwork-alt/lms): my MCA project, a full-stack course marketplace
-  with Stripe payments and payouts, video lessons on AWS S3 and progress tracking (Next.js, Express, MongoDB).
+  with Stripe payments and payouts, video lessons on AWS S3 and progress tracking (React.js,Next.js, Express, MongoDB).
 
 ## 📫 Say hi
 
